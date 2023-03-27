@@ -1,0 +1,17 @@
+.board {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+}
+
+.white {
+    background-color: white;
+}
+
+.black{
+    background-color: black;
+}
